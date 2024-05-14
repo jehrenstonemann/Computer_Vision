@@ -1,1 +1,1 @@
-This is still under construction. Expected to be completed by June 2024
+This includes projects completed for Deep Learning in Computer Vision
